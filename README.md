@@ -29,7 +29,7 @@ This is a responsive promotional website built for a **Tech Consultancy Firm** a
 
 ## 🌐 Live Preview
 
-[Live Preview]([https://trio-consultancy.netlify.app])
+[Live Preview](https://trio-consultancy.netlify.app)
 
 ## 📄 License
 
