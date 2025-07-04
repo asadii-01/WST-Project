@@ -1,5 +1,5 @@
 
-# 💼 Tech Consultancy Firm – Promotional Website
+# 💼 Trio Consultancy – Promotional Website
 
 This is a responsive promotional website built for a **Tech Consultancy Firm** as part of our **Web Systems and Technology** term project at the **University of Gujrat (UOG)**. Developed collaboratively with my group members, this project demonstrates our front-end skills using **HTML**, **CSS**, and **JavaScript**.
 
@@ -29,7 +29,7 @@ This is a responsive promotional website built for a **Tech Consultancy Firm** a
 
 ## 🌐 Live Preview
 
-[Live Preview](https://your-live-site-link.com)
+[Live Preview]([https://trio-consultancy.netlify.app])
 
 ## 📄 License
 
